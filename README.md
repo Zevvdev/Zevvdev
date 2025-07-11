@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**uzer-01239/uzer-01239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zevvdev/Zevvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
